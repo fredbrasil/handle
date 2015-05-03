@@ -1,4 +1,4 @@
-package havecontrol.com.br.havecontrol.register;
+package havecontrol.com.br.havecontrol.view.register;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
@@ -9,14 +9,14 @@ import android.view.MotionEvent;
 import android.view.View;
 
 import havecontrol.com.br.havecontrol.R;
-import havecontrol.com.br.havecontrol.util.SystemUiHider;
+import havecontrol.com.br.havecontrol.common.util.SystemUiHider;
 
 
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.
  * status bar and navigation/system bar) with user interaction.
  *
- * @see havecontrol.com.br.havecontrol.util.SystemUiHider
+ * @see havecontrol.com.br.havecontrol.common.util.SystemUiHider
  */
 public class RegisterFinanceActivity extends Activity {
 

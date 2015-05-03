@@ -1,4 +1,4 @@
-package havecontrol.com.br.havecontrol.util;
+package havecontrol.com.br.havecontrol.common.util;
 
 import android.app.Activity;
 import android.os.Build;

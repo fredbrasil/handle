@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:background="#FFFAFA"
     android:padding="15dp"
-    tools:context="havecontrol.com.br.havecontrol.register.RegisterFinanceActivity">
+    tools:context="havecontrol.com.br.havecontrol.view.register.RegisterFinanceActivity">
 
    <!-- This FrameLayout insets its children based on system windows using
          android:fitsSystemWindows. -->

@@ -1,4 +1,4 @@
-package havecontrol.com.br.havecontrol.util;
+package havecontrol.com.br.havecontrol.common.util;
 
 import android.annotation.TargetApi;
 import android.app.Activity;

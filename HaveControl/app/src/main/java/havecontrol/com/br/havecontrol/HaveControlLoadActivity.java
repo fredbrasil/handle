@@ -1,6 +1,6 @@
 package havecontrol.com.br.havecontrol;
 
-import havecontrol.com.br.havecontrol.util.SystemUiHider;
+import havecontrol.com.br.havecontrol.common.util.SystemUiHider;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
